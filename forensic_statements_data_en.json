@@ -1,0 +1,182 @@
+[
+  {
+    "case_id": "001",
+    "description": "Collision at the traffic lights.",
+    "suspect_statement": "I passed during the green light, the other car came fast.",
+    "witness_statements": [
+      "He ran the red light and crashed.",
+      "I was a pedestrian, the suspect's car passed without stopping."
+    ]
+  },
+  {
+    "case_id": "002",
+    "description": "Morning argument in a store.",
+    "suspect_statement": "I was at home before 9 AM and didn't go out.",
+    "witness_statements": [
+      "The suspect entered the shop at 8:30 and argued.",
+      "I was there at the time of the incident and saw the suspect."
+    ]
+  },
+  {
+    "case_id": "003",
+    "description": "Threat between neighbors.",
+    "suspect_statement": "I just raised my voice, I didn't threaten anyone.",
+    "witness_statements": [
+      "The suspect said 'I'll stab you'.",
+      "I heard him making threats."
+    ]
+  },
+  {
+    "case_id": "004",
+    "description": "Argument at the library.",
+    "suspect_statement": "I just asked for a book, I didn't shout.",
+    "witness_statements": [
+      "The suspect shouted at the librarian.",
+      "He made noise in the library."
+    ]
+  },
+  {
+    "case_id": "005",
+    "description": "Fight on the street at night.",
+    "suspect_statement": "I didn't go out that night.",
+    "witness_statements": [
+      "I saw the suspect on the street at 11 PM.",
+      "He was in the middle of the fight."
+    ]
+  },
+  {
+    "case_id": "006",
+    "description": "Stolen phone incident.",
+    "suspect_statement": "I didn't take the phone, I didn't even see it.",
+    "witness_statements": [
+      "The suspect put the phone on the table into his pocket.",
+      "He was holding it in his hand."
+    ]
+  },
+  {
+    "case_id": "007",
+    "description": "Argument among office employees.",
+    "suspect_statement": "I just filed a complaint, I didn't insult anyone.",
+    "witness_statements": [
+      "The suspect said 'you are stupid'.",
+      "He used offensive words."
+    ]
+  },
+  {
+    "case_id": "008",
+    "description": "Fight in the schoolyard.",
+    "suspect_statement": "I just tried to break up the fight.",
+    "witness_statements": [
+      "The suspect threw the first punch.",
+      "He started the fight."
+    ]
+  },
+  {
+    "case_id": "009",
+    "description": "Noise complaint on public transport.",
+    "suspect_statement": "I was just singing.",
+    "witness_statements": [
+      "The suspect was yelling with loud music.",
+      "He behaved disturbingly."
+    ]
+  },
+  {
+    "case_id": "010",
+    "description": "Vehicle scratch in the parking lot.",
+    "suspect_statement": "I didn't even touch the car.",
+    "witness_statements": [
+      "The footage shows the suspect leaning on the car.",
+      "There were fingerprints on the paint."
+    ]
+  },
+  {
+    "case_id": "011",
+    "description": "Bill dispute in a café.",
+    "suspect_statement": "I just objected.",
+    "witness_statements": [
+      "The suspect threatened the cashier.",
+      "He shouted to avoid paying the bill."
+    ]
+  },
+  {
+    "case_id": "012",
+    "description": "Theft suspicion in a supermarket.",
+    "suspect_statement": "I paid for the items.",
+    "witness_statements": [
+      "The suspect hid something in his bag.",
+      "He left without paying in the footage."
+    ]
+  },
+  {
+    "case_id": "013",
+    "description": "Apartment maintenance fee argument.",
+    "suspect_statement": "I just went to discuss the fee.",
+    "witness_statements": [
+      "The suspect threatened the manager.",
+      "He banged the door and shouted."
+    ]
+  },
+  {
+    "case_id": "014",
+    "description": "Insult accusation on social media.",
+    "suspect_statement": "I didn't write any insults.",
+    "witness_statements": [
+      "The suspect called me 'idiot'.",
+      "The messages were full of insults."
+    ]
+  },
+  {
+    "case_id": "015",
+    "description": "Work accident at a construction site.",
+    "suspect_statement": "I had taken all the precautions.",
+    "witness_statements": [
+      "The suspect didn’t provide safety equipment.",
+      "The accident happened due to negligence."
+    ]
+  },
+  {
+    "case_id": "016",
+    "description": "Customer complaint at a restaurant.",
+    "suspect_statement": "I just said I didn't like the food.",
+    "witness_statements": [
+      "The suspect yelled at the waiter.",
+      "He slammed the table."
+    ]
+  },
+  {
+    "case_id": "017",
+    "description": "Disturbance at a concert.",
+    "suspect_statement": "I was just having fun.",
+    "witness_statements": [
+      "The suspect tried to get on stage.",
+      "He harmed other spectators."
+    ]
+  },
+  {
+    "case_id": "018",
+    "description": "Cheating accusation in university exam.",
+    "suspect_statement": "I didn't talk to anyone.",
+    "witness_statements": [
+      "The suspect looked at the answer sheet next to him.",
+      "The proctor gave a warning."
+    ]
+  },
+  {
+    "case_id": "019",
+    "description": "Bag theft on a bus.",
+    "suspect_statement": "I didn't take any bag.",
+    "witness_statements": [
+      "There’s footage of the suspect taking the bag.",
+      "He took the bag from the ground."
+    ]
+  },
+  {
+    "case_id": "020",
+    "description": "Dog attack in the park.",
+    "suspect_statement": "My dog was on a leash and didn’t attack.",
+    "witness_statements": [
+      "The suspect's dog attacked a child.",
+      "The dog had no leash."
+    ]
+  }
+]

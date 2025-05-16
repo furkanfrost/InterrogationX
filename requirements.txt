@@ -1,7 +1,5 @@
 PyQt6>=6.4.0
 sentence-transformers>=2.2.2
-transformers>=4.30.0
-torch>=2.0.0
 spacy>=3.5.0
 matplotlib>=3.7.0
 pandas>=2.0.0

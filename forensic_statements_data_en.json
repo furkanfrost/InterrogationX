@@ -1,0 +1,182 @@
+[
+  {
+    "case_id": "001",
+    "description": "Traffic collision during rush hour at a busy intersection.",
+    "suspect_statement": "I was on my way to work and entered the intersection when the light was still yellow. The car coming from the right appeared suddenly and I tried to brake, but it was too late. I was not speeding, and I had full control of my vehicle. I immediately got out to check if the other driver was okay and called the police right away.",
+    "witness_statements": [
+      "I was waiting at the pedestrian crossing when the light had already turned red. The suspect’s car didn’t stop and went through the red light, crashing into the other car. It looked like he was in a hurry.",
+      "I was driving behind the suspect. The light was yellow when he entered, but it turned red almost instantly. He might have thought he could make it, but he didn’t."
+    ]
+  },
+  {
+    "case_id": "002",
+    "description": "Altercation between a customer and cashier at a convenience store.",
+    "suspect_statement": "I went to the store to buy coffee and a sandwich before work. The cashier was rude and threw my receipt, so I asked him to be more respectful. I didn’t shout or use any threats, but people started looking. I left as soon as I realized it was getting uncomfortable.",
+    "witness_statements": [
+      "I was behind him in line. The suspect raised his voice and slammed his hand on the counter. The cashier looked scared, and the suspect seemed really angry.",
+      "The suspect looked frustrated but I didn’t hear him insult or threaten anyone. He left the store shortly after raising his voice once."
+    ]
+  },
+  {
+    "case_id": "003",
+    "description": "Online cyberbullying case reported through social media screenshots.",
+    "suspect_statement": "I was only replying sarcastically to my classmate’s posts. It wasn’t bullying; we always joke that way. I never intended to make her cry or feel unsafe. If she misunderstood, I’m sorry but it was never harassment.",
+    "witness_statements": [
+      "The suspect posted repeated comments mocking the victim’s looks and personal life. Several people asked him to stop, but he continued making jokes for days.",
+      "I saw the messages too. Some of them were harsh, but others laughed along. It’s possible he didn’t realize how hurtful it was."
+    ]
+  },
+  {
+    "case_id": "004",
+    "description": "Dispute between two neighbors over property boundaries.",
+    "suspect_statement": "I was mowing my lawn when he came out yelling that I was cutting on his side. I told him calmly that I was within my line, but he kept shouting. I didn’t touch his property or act aggressively. I simply walked back into my house to avoid a fight.",
+    "witness_statements": [
+      "I live across the street. The suspect was waving his hands and shouting loudly, saying, 'This is my yard, stay out!' It definitely looked heated.",
+      "I saw both of them arguing. The neighbor seemed more aggressive, but the suspect also raised his voice several times."
+    ]
+  },
+  {
+    "case_id": "005",
+    "description": "Workplace harassment complaint in a corporate office.",
+    "suspect_statement": "I made a joke during lunch that I thought was harmless. I didn’t intend to offend anyone, especially not my colleague. When she told me she felt uncomfortable, I immediately apologized. I have never harassed anyone and always maintained professionalism.",
+    "witness_statements": [
+      "The suspect made repeated jokes about a female coworker’s appearance. Everyone at the table looked awkward, but he kept going despite her visible discomfort.",
+      "I was at that table. The comment was inappropriate but he apologized right after. I don’t think he meant to make her uncomfortable."
+    ]
+  },
+  {
+    "case_id": "006",
+    "description": "Domestic argument involving noise complaints from neighbors.",
+    "suspect_statement": "My partner and I were having a heated discussion about bills. We didn’t hit or threaten each other, just raised our voices. I didn’t realize how loud it was until the police showed up. It was purely verbal and over within minutes.",
+    "witness_statements": [
+      "I live next door. I heard shouting and loud banging sounds, like someone throwing things. It went on for at least ten minutes before the police arrived.",
+      "I heard them arguing, but it just sounded like yelling — no breaking or hitting sounds from what I could tell."
+    ]
+  },
+  {
+    "case_id": "007",
+    "description": "Theft of a phone in a café during lunch hours.",
+    "suspect_statement": "I was drinking coffee and reading emails. I noticed a phone left on the next table but didn’t touch it. When I got up to leave, the phone was still there. I think someone else must have taken it after I left.",
+    "witness_statements": [
+      "I was two tables away. The suspect picked up the phone, looked around quickly, and then slipped it into his jacket pocket before leaving.",
+      "I saw the suspect looking at the phone but didn’t notice him taking it. The seat was empty when I looked again, though."
+    ]
+  },
+  {
+    "case_id": "008",
+    "description": "Physical altercation outside a nightclub.",
+    "suspect_statement": "I was outside for a smoke when I saw two men fighting. I tried to separate them but one swung at me, so I instinctively pushed back. It all happened so fast. I wasn’t trying to fight anyone.",
+    "witness_statements": [
+      "I was near the entrance. The suspect threw the first punch and looked furious. The security had to pull him away.",
+      "The suspect initially tried to stop the fight but ended up hitting one of the men when things got intense."
+    ]
+  },
+  {
+    "case_id": "009",
+    "description": "Cyber fraud involving unauthorized use of company data.",
+    "suspect_statement": "I had access to the data as part of my job. I didn’t sell or share anything. The files on my USB were for a presentation I was preparing. I never violated company policy intentionally.",
+    "witness_statements": [
+      "I saw the suspect copying sensitive files late at night without informing the manager. He looked nervous when I asked about it.",
+      "He was definitely working late that week, but I can’t confirm what he was copying. He mentioned preparing a report for the board."
+    ]
+  },
+  {
+    "case_id": "010",
+    "description": "Plagiarism accusation during university final project.",
+    "suspect_statement": "I wrote my paper completely on my own. I may have used online references but I cited every source properly. The similarities in our work must be coincidental since we researched the same topic. I would never cheat on my thesis.",
+    "witness_statements": [
+      "I was part of the same class. The suspect’s paper was almost identical to one that was uploaded on an academic site a year ago. Even the structure and introduction matched.",
+      "We both worked on similar research questions, so overlap makes sense. I don’t think he copied intentionally."
+    ]
+  },
+  {
+    "case_id": "011",
+    "description": "Road rage incident on the highway.",
+    "suspect_statement": "The other driver was tailgating me for several miles. I tapped my brakes to warn him but he sped up and cut in front. I honked and yelled out the window but never got out of my car. I was just frustrated by his reckless driving.",
+    "witness_statements": [
+      "I was in the next lane. The suspect was shouting and waving his hands angrily. He nearly hit the other car when swerving.",
+      "It looked like both drivers were angry. The suspect didn’t leave his car, but he was definitely yelling aggressively."
+    ]
+  },
+  {
+    "case_id": "012",
+    "description": "Patient–doctor disagreement in a hospital emergency room.",
+    "suspect_statement": "The patient was upset because he had to wait for his test results. I tried to explain the procedure calmly, but he kept interrupting. I never shouted or disrespected him. I’ve been a doctor for ten years and handle stressful situations professionally.",
+    "witness_statements": [
+      "I was at the reception desk. The doctor was visibly irritated and raised his voice several times. The patient left the room crying.",
+      "The situation was tense, but the doctor didn’t yell. He sounded firm, not aggressive, and was trying to calm the patient."
+    ]
+  },
+  {
+    "case_id": "013",
+    "description": "Vandalism of a parked vehicle in a residential area.",
+    "suspect_statement": "I was walking my dog when I noticed the car alarm going off. I didn’t touch the car at all. Someone must have mistaken me for the vandal because I was nearby. I stayed there to see what was happening until the owner came out.",
+    "witness_statements": [
+      "I saw the suspect kick the car door and then quickly walk away. He looked angry and was muttering something.",
+      "There was a person near the car when the alarm started, but I couldn’t tell if he actually hit it or not."
+    ]
+  },
+  {
+    "case_id": "014",
+    "description": "Restaurant argument between a customer and waiter.",
+    "suspect_statement": "The food I ordered was cold, so I politely asked for it to be reheated. The waiter rolled his eyes and muttered something under his breath, which upset me. I raised my voice slightly but didn’t insult anyone. I left after paying my bill.",
+    "witness_statements": [
+      "I was at the next table. The suspect was shouting and calling the waiter names. Everyone turned to look because of the noise.",
+      "The customer did raise his voice but didn’t use any curse words. It seemed more like frustration than aggression."
+    ]
+  },
+  {
+    "case_id": "015",
+    "description": "Cheating accusation during a high school exam.",
+    "suspect_statement": "I was focusing on my own paper. The teacher thought I was looking at my friend’s answers, but I was just checking the clock. I’ve never cheated in any exam before. I feel unfairly accused.",
+    "witness_statements": [
+      "I was sitting right behind the suspect. He kept glancing at the desk next to him several times during the test.",
+      "I didn’t see him looking at anyone’s paper. The teacher might have misunderstood his movements."
+    ]
+  },
+  {
+    "case_id": "016",
+    "description": "Data leak investigation at a tech company.",
+    "suspect_statement": "I had no involvement in sharing internal information. I worked late because I was fixing a software bug. The leaked files mentioned in the report weren’t even accessible from my account. I’ve been loyal to this company for years.",
+    "witness_statements": [
+      "The suspect was discussing confidential data during lunch and showing screenshots on his laptop. I overheard parts of it.",
+      "He’s been a trusted employee. I can’t imagine him leaking anything — he’s often the one reminding others about security rules."
+    ]
+  },
+  {
+    "case_id": "017",
+    "description": "Harassment complaint at a university dorm.",
+    "suspect_statement": "I sent her a few messages asking if she wanted to hang out, nothing more. I never pressured or stalked her. When she said she wasn’t interested, I stopped contacting her. I didn’t mean to make anyone uncomfortable.",
+    "witness_statements": [
+      "The suspect kept waiting outside her room for several days and sent multiple texts even after being told to stop.",
+      "I know both of them. He seemed interested but not threatening. Maybe she just felt uneasy about the persistence."
+    ]
+  },
+  {
+    "case_id": "018",
+    "description": "False accusation of shoplifting in a supermarket.",
+    "suspect_statement": "I paid for everything in my cart. The cashier scanned all items, and I even have the receipt. I didn’t hide anything in my bag. I think they confused me with another customer wearing similar clothes.",
+    "witness_statements": [
+      "I was behind her in line. I saw the suspect take an item and put it in her bag before reaching the counter.",
+      "The suspect looked surprised when security stopped her. She kept showing her receipt and seemed genuinely confused."
+    ]
+  },
+  {
+    "case_id": "019",
+    "description": "Online identity impersonation through fake social media account.",
+    "suspect_statement": "Someone used my old pictures to create that account. I didn’t post or message anyone pretending to be her. I’ve already reported it to the platform. I have nothing to gain from impersonating anyone.",
+    "witness_statements": [
+      "The account was clearly using the suspect’s tone and old photos. Some messages even matched how he writes online.",
+      "It’s possible someone hacked or cloned his account. I’ve seen fake profiles like this happen before."
+    ]
+  },
+  {
+    "case_id": "020",
+    "description": "Public disturbance at a music concert.",
+    "suspect_statement": "I was cheering loudly because the band played my favorite song. Security thought I was trying to jump the barrier, but I wasn’t. I never touched anyone or tried to get on stage. I was just enjoying the show.",
+    "witness_statements": [
+      "I was right beside him. He tried climbing the barrier and pushed people to get closer to the stage. Security had to intervene.",
+      "The suspect was energetic but harmless. He was shouting the lyrics and waving his hands — typical concert behavior."
+    ]
+  }
+]
